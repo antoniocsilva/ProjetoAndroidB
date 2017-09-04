@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Peso Ideal</string>
+    <string name="action_settings">Configurações</string>
+    <string name="informe_seu_nome">Informe seu nome:</string>
+    <string name="informe_seu_peso">Informe seu peso:</string>
+    <string name="informe_sua_altura">Informe sua altura:</string>
+    <string name="salvar">Salvar</string>
+    <string name="foto">Tirar Foto</string>
+    <string name="pesagem">Agendar Pesagem</string>
+    <string name="registrar_uma_foto">Registrar uma Foto</string>
+    <string name="sobrepeso">sobrepeso!</string>
+    <string name="peso_ideal">Peso Ideal!</string>
+    <string name="peso_muito_grave">Baixo peso, muito grave!</string>
+    <string name="peso_grave">Baixo peso, grave!</string>
+    <string name="peso_baixo">Baixo peso!</string>
+    <string name="obesidade_1">Obesidade grau I!</string>
+    <string name="obesidade_2">Obesidade grau II!</string>
+    <string name="obesidade_3">Obesidade grau III!</string>
+    <string name="tela_cadastro">Tela de cadastro</string>
+    <string name="nome_pessoa">Nome:</string>
+    <string name="peso_atual_pessoa">Peso Atual:</string>
+    <string name="peso_ideal_pessoa">Peso Ideal:</string>
+    <string name="voce">Você está com</string>
+</resources>

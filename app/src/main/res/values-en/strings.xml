@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ideal Weight</string>
+    <string name="action_settings">Settings</string>
+    <string name="informe_seu_nome">Notify your name:</string>
+    <string name="informe_seu_peso">Notify your weight:</string>
+    <string name="informe_sua_altura">Notify your height:</string>
+    <string name="salvar">Save</string>
+    <string name="foto">Take Photo</string>
+    <string name="pesagem">Schedule Weighing</string>
+    <string name="registrar_uma_foto">Register a picture</string>
+    <string name="sobrepeso">overweight!</string>
+    <string name="peso_ideal">Ideal Weight!</string>
+    <string name="peso_muito_grave">Low weight, very serious!</string>
+    <string name="peso_grave">Low weight, serious!</string>
+    <string name="peso_baixo">Low weight!</string>
+    <string name="obesidade_1">Obesity I!</string>
+    <string name="obesidade_2">Obesity II!</string>
+    <string name="obesidade_3">Obesity III!</string>
+    <string name="tela_cadastro">Registration screen</string>
+    <string name="nome_pessoa">Name:</string>
+    <string name="peso_atual_pessoa">Current Weight:</string>
+    <string name="peso_ideal_pessoa">Ideal Weight:</string>
+    <string name="voce">You are with</string>
+</resources>
